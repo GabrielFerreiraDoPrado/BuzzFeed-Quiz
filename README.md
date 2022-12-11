@@ -1,27 +1,40 @@
-# BuzzfeedQuiz
+# BuzzFeed Quiz
+![GitHub](https://img.shields.io/github/license/GabrielFerreiraDoPrado/Buzzfeed-Quiz) ![GitHub top language](https://img.shields.io/github/languages/top/GabrielFerreiraDoPrado/Buzzfeed-Quiz)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+# About the Project
 
-## Development server
+The BuzzFeed Quiz is a front-end Angular project developed during the Cloud Fullstack Bootcamp, made by [Digital Innovation One](https://www.dio.me/). It is a clone of the popular Buzzfeed quizzes. The questions are stored in a json file, therefore it is possible to  alter the questions and create several different quizzes.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Objectives
+ 
+• Create a front-end project using Angular
 
-## Code scaffolding
+• Study about components
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+• Learn about routing
 
-## Build
+• Create dynamic components and pages
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+# Tools
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+• TypeScript
 
-## Running end-to-end tests
+• CSS
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+• HTML
 
-## Further help
+• Angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+• Visual Studio Code
+
+
+<span>![Tools](https://github.com/GabrielFerreiraDoPrado/assets/blob/main/Buzzfeed-Quiz/tools.png)</span>
+
+# Home Page
+
+![Home](https://github.com/GabrielFerreiraDoPrado/assets/blob/main//Buzzfeed-Quiz/home.png)
+
+# Author
+
+[My profile](https://www.linkedin.com/in/gabriel-ferreira-do-prado/) on LinkedIn
