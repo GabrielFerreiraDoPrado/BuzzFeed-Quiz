@@ -3,7 +3,7 @@
 
 # About the Project
 
-The BuzzFeed Quiz is a front-end Angular project developed during the Cloud Fullstack Bootcamp, made by [Digital Innovation One](https://www.dio.me/). It is a clone of the popular Buzzfeed quizzes. The questions are stored in a json file, therefore it is possible to  alter the questions and create several different quizzes.
+The BuzzFeed Quiz is a front-end Angular project developed during the Cloud Fullstack Bootcamp, made by [Digital Innovation One](https://www.dio.me/). It is a clone of the popular BuzzFeed quizzes. The questions are stored in a json file, therefore it is possible to  alter the questions and create several different quizzes.
 
 ## Objectives
  
