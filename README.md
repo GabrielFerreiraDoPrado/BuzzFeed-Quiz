@@ -9,7 +9,7 @@ The BuzzFeed Quiz is a front-end Angular project developed during the Cloud Full
  
 • Create a front-end project using Angular
 
-• Study about components
+• Study components
 
 • Learn about routing
 
